@@ -1,0 +1,34 @@
+MI Proyecto
+🌍 EcoGuard AI: Inteligencia artificial contra el cambio climático
+
+💡 Idea del proyecto
+
+EcoGuard AI es una aplicación desarrollada en Python que utiliza inteligencia artificial para ayudar a detectar problemas medioambientales, analizar datos climáticos y concienciar sobre el cambio climático.
+
+El objetivo es aprovechar la tecnología para comprender mejor los problemas que afectan al planeta y proponer soluciones que ayuden a reducir su impacto.
+
+⚙️ ¿Cómo funcionaría?
+
+Visión por computador: analizar fotografías para clasificar residuos y reconocer diferentes elementos del entorno natural.
+
+Análisis climático: consultar datos meteorológicos reales mediante APIs y representar temperaturas y precipitaciones en gráficos.
+
+Inteligencia artificial: ofrecer recomendaciones para reducir la huella de carbono y fomentar hábitos sostenibles.
+
+Base de datos: guardar los resultados de los análisis y consultar su evolución.
+
+Interfaz web: mostrar los resultados de forma visual, sencilla e interactiva.
+
+🛠️ Tecnologías que utilizaría
+
+Python, redes neuronales, visión por computador, APIs, bases de datos, Streamlit y herramientas de visualización de datos.
+
+🎯 Objetivo principal
+
+Crear una herramienta tecnológica que combine programación e inteligencia artificial para ayudar a identificar problemas ambientales, comprender los datos climáticos y promover acciones responsables.
+
+🌱 ¿Qué aporta este proyecto?
+
+EcoGuard AI reúne conocimientos de distintos proyectos que hemos realizado durante el curso, como redes neuronales, páginas web, bases de datos, análisis inteligente de texto y uso de APIs, aplicándolos a un problema real: el cambio climático.
+
+Mi propuesta es demostrar que la programación y la inteligencia artificial pueden convertirse en herramientas útiles para proteger el medioambiente y construir un futuro más sostenible.
